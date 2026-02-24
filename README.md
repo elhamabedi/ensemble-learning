@@ -106,14 +106,6 @@ This repository contains implementations of **Decision Tree** and **Ensemble Lea
 
 *Observation: SMOTE improved G-mean (better minority class detection) but decreased overall accuracy compared to the baseline.*
 
-## Installation & Usage
-
-### Requirements
-
-```bash
-pip install numpy pandas scikit-learn matplotlib tabulate scipy
-
-
 ## Algorithm Highlights
 
 ### Hellinger Distance
